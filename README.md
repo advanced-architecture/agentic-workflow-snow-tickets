@@ -3,6 +3,6 @@ This repo holds the high-level plan for building a workflow to solve ServiceNow 
 
 
 ## Resources to integrate
-[Terraform Enterprise deployment to EKS HVD | https://github.com/hashicorp/terraform-aws-terraform-enterprise-eks-hvd] 
-[Vault on Kubernetes Official Helm Chart | https://developer.hashicorp.com/vault/docs/deploy/kubernetes ]
-[Ansible and ServiceNow Demo by Jerry Corum | https://github.com/corumj/ansible-servicenow-demo]
+[Terraform Enterprise deployment to EKS HVD] (https://github.com/hashicorp/terraform-aws-terraform-enterprise-eks-hvd)
+[Vault on Kubernetes Official Helm Chart] (https://developer.hashicorp.com/vault/docs/deploy/kubernetes)
+[Ansible and ServiceNow Demo by Jerry Corum ] (https://github.com/corumj/ansible-servicenow-demo)
